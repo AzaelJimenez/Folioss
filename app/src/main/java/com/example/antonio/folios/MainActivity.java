@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity
             @Override
             public void onClick(View view)
             {
-                Snackbar.make(view, "Replace with yourv own action", Snackbar.LENGTH_LONG)
+                Snackbar.make(view, "Replace with yopurv own action", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
         });
